@@ -119,16 +119,16 @@ export default {
       descarga: '/downloads/INST-D_2013_190.pdf',
     },
     {
-      tema: 'Tipos de joyas',
-      referencia: 'Diccionario deJoyeria',
+      tema: 'Documento cadena productiva de la joyería.',
+      referencia: 'Artesanías de Colombia.',
       tipo: 'PDF',
       descarga: '/downloads/diccionario_joyeria.pdf',
     },
     {
       tema: 'Metales preciosos y aleaciones para joyería.',
-      referencia: 'Ecosistema recursos SENA [Video]. YouTube.',
+      referencia: 'Ecosistema recursos SENA.',
       tipo: 'Video',
-      link: 'https://youtu.be/echh5DT0IzA?si=M3EHwyJhgAh8oJ3z',
+      link: 'https://www.youtube.com/watch?v=echh5DT0IzA',
     },
   ],
   glosario: [
@@ -181,22 +181,17 @@ export default {
   referencias: [
     {
       referencia:
-        'Alvarado, R. (2011). Manual de Buenas Prácticas de Joyerías. Bolivia, Ed. Nitrance publicidad.',
-    },
-    {
-      referencia:
         'Aimme, L.G. (2010). Los metales tóxicos en joyería y bisutería. España.',
     },
     {
-      referencia:
-        'Alvarado, R.(2011). Manual de Buenas Prácticas de Joyerías. Bolivia, Ed. Nitrance publicidad.',
+      referencia: 'Alsina, B (1989). Los metales en la joyería moderna.',
     },
     {
       referencia:
-        'Alsina, Benavente (1989). Los metales en la joyería moderna. Ed.Alsina.',
+        'Alvarado, R. (2011). Manual de buenas prácticas de joyerías. Bolivia, Editorial Nitrance publicidad.',
     },
     {
-      referencia: 'Codina, carles. (2000). La Joyería. Barcelona: Parramon.',
+      referencia: 'Codina, C. (2000). La Joyería. Barcelona: Parramon.',
     },
     {
       referencia:
@@ -204,7 +199,8 @@ export default {
     },
     {
       referencia:
-        'Real Decreto 197-1988 legislacionespanola.leyderecho.org Retrieved 12, 2016.',
+        'Real Decreto 197-1988 Legislación española. LeyDerecho.org Recuperado el 12, 2016, de ',
+      link: 'http://legislacionespanola.leyderecho.org/',
     },
   ],
   creditos: [
@@ -232,39 +228,13 @@ export default {
           nombre: 'Leonor Bolívar Castaño',
           cargo: 'Experto temático',
           centro:
-            'Centro de gestión administrativa y fortalecimiento empresarial - Regional Boyacá',
-        },
-        {
-          nombre: 'Pedro Nel Cabrera Vanegas',
-          cargo: 'Diseñadores gráficos',
-          centro: 'Centro Comercio y Servicio - Regional Tolima',
-        },
-        {
-          nombre: 'Diana Katherine Osorio Useche',
-          cargo: 'Diseñadores gráficos',
-          centro: 'Centro Comercio y Servicio - Regional Tolima',
+            'Centro de Gestión Administrativa y Fortalecimiento Empresarial - Regional Boyacá',
         },
         {
           nombre: 'Ricardo palacio Peña',
           cargo: 'Asesora pedagógica',
           centro: 'Centro Comercio y Servicio - Regional Tolima',
         },
-        {
-          nombre: 'Genny Carolina Mora Rojas',
-          cargo: 'Guionista del equipo',
-          centro: 'Centro Comercio y Servicio - Regional Tolima',
-        },
-        {
-          nombre: 'Jesús Bernardo Novoa Ortiz',
-          cargo: 'Guionista del equipo',
-          centro: 'Centro Comercio y Servicio - Regional Tolima',
-        },
-        {
-          nombre: 'Claudia Rocio Varón Buitrago',
-          cargo: 'Líder del del Equipo',
-          centro: 'Centro Comercio y Servicio - Regional Tolima',
-        },
-
         {
           nombre: 'Fabian Cuartas Donado',
           cargo: 'Evaluador instruccional',
@@ -277,7 +247,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Jesus Antonio Vecino Valero',
+          nombre: 'Hernando Junior Strusberg Pérez',
           cargo: 'Diseño web',
           centro:
             'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
@@ -312,15 +282,14 @@ export default {
             'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
-          nombre: 'Juan Carlos Cardona Acosta',
-          cargo: 'Validador y vinculador de recursos digitales',
+          nombre: 'Jairo Luis Valencia Ebratt',
+          cargo: 'Validador y vinculador de recursos digitales ',
           centro:
             'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
-
         {
-          nombre: 'Jairo Luis Valencia Ebratt',
-          cargo: 'Validador y vinculador de recursos digitales ',
+          nombre: 'Juan Carlos Cardona Acosta',
+          cargo: 'Validador y vinculador de recursos digitales',
           centro:
             'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
