@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecoredsena-atlantico.github.io/84240189_CF01_METALES_PRECIOSOS_Y_ALEACIONES-_PARA_JOYERIA/#/](https://ecoredsena-atlantico.github.io/84240189_CF01_METALES_PRECIOSOS_Y_ALEACIONES-_PARA_JOYERIA/#/)
+[https://ecored-atlantico.github.io/84240189_CF01_METALES_PRECIOSOS_Y_ALEACIONES-_PARA_JOYERIA/](https://ecored-atlantico.github.io/84240189_CF01_METALES_PRECIOSOS_Y_ALEACIONES-_PARA_JOYERIA/)
 
 #
 

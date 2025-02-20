@@ -2,7 +2,10 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 Este componnente se centra en la identificación, análisis y elaboración de aleaciones de metales para joyería. Combina teoría y práctica, desarrollando competencias en el manejo de materiales y asegurando calidad según estándares internacionales. Su enfoque es mejorar las habilidades técnicas de operarios y aprendices, impulsando su desempeño y proyección profesional en el sector.
+    p El programa "Reconocimientos y aleaciones en los metales preciosos" está diseñado para capacitar a operarios y aprendices en la identificación, análisis y manipulación de metales preciosos, como oro y plata. A lo largo de la formación, los participantes aprenderán a crear aleaciones específicas que cumplen con los estándares internacionales de calidad para la elaboración de joyería.
+    p El curso combina teoría y práctica, permitiendo a los estudiantes desarrollar habilidades técnicas esenciales en la producción de piezas de joyería. Además, se enfoca en el uso de herramientas y técnicas adecuadas para garantizar la durabilidad y el valor estético de las aleaciones.
+    p.mb-5 El programa busca no solo mejorar las competencias técnicas de los participantes, sino también prepararlos para enfrentar desafíos en el sector, potenciando así su proyección laboral y contribuyendo al crecimiento del sector de la joyería.
+
    
 
     .row.justify-content-center

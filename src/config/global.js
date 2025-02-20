@@ -1,9 +1,8 @@
 export default {
   global: {
-    componenteFormativo:
-      'Reconocimientos y aleaciones en los metales preciosos',
-    descripcionCurso:
-      ' Este componente se centra en la identificación, análisis y elaboración de aleaciones para joyería. Combina teoría y práctica, desarrollando competencias en el manejo de materiales y asegurando calidad según estándares internacionales. Su enfoque es mejorar las habilidades técnicas de operarios y aprendices, impulsando su desempeño y proyección profesional en el sector.',
+    Name: 'Reconocimientos y aleaciones en los metales preciosos',
+    Description:
+      'El programa "Reconocimientos y aleaciones en metales preciosos" capacita a los participantes en la identificación, análisis y elaboración de aleaciones para joyería. Combina teoría y práctica, desarrollando competencias en el manejo de materiales y asegurando calidad según estándares internacionales. Su enfoque es mejorar las habilidades técnicas de operarios y aprendices, impulsando su desempeño y proyección profesional en el sector.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -113,8 +112,9 @@ export default {
   },
   complementario: [
     {
-      tema: 'Los metales',
-      referencia: 'Referencial Nacional de Joyeria ',
+      tema:
+        'Documento sectorial, metales y piedras preciosas, joyería y bisutería.',
+      referencia: 'Cadena productiva de la industria de la joyería.',
       tipo: 'PDF',
       descarga: '/downloads/INST-D_2013_190.pdf',
     },
@@ -168,7 +168,7 @@ export default {
         'trozo o barra de metal bruto fundido, en especial de hierro o de un metal noble, como el oro, la plata o el platino.',
     },
     {
-      termino: 'Numero de oxidación',
+      termino: 'Número de oxidación',
       significado:
         'los números de oxidación representan la carga aparente que tiene un átomo cuando se combina con otros para formar una molécula.',
     },
