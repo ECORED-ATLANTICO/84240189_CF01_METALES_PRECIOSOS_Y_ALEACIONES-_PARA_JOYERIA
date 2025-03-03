@@ -250,7 +250,7 @@ export default {
       autores: [
         {
           nombre: 'Hernando Junior Strusberg Pérez',
-          cargo: 'Diseño web',
+          cargo: 'Diseño <em>web</em>',
           centro:
             'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
