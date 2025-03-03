@@ -114,15 +114,17 @@ export default {
     {
       tema:
         'Documento sectorial, metales y piedras preciosas, joyería y bisutería.',
-      referencia: 'Cadena productiva de la industria de la joyería.',
+      referencia:
+        'ProColombia. (2024). Cadena productiva de la industria de la joyería.',
       tipo: 'PDF',
-      descarga: '/downloads/INST-D_2013_190.pdf',
+      descarga: '/downloads/joyeriaybisuteria_26feb.pdf',
     },
     {
       tema: 'Documento cadena productiva de la joyería.',
-      referencia: 'Artesanías de Colombia.',
+      referencia:
+        'Artesanías de Colombia. (2007). Cadena productiva de la joyería. ',
       tipo: 'PDF',
-      descarga: '/downloads/diccionario_joyeria.pdf',
+      descarga: '/downloads/estudio_joyeriacol.pdf',
     },
     {
       tema: 'Metales preciosos y aleaciones para joyería.',
@@ -199,8 +201,8 @@ export default {
     },
     {
       referencia:
-        'Real Decreto 197-1988 Legislación española. LeyDerecho.org Recuperado el 12, 2016, de ',
-      link: 'http://legislacionespanola.leyderecho.org/',
+        'Real Decreto 197-1988 Legislación española. LeyDerecho.org Recuperado el 12, 2016. ',
+      link: '',
     },
   ],
   creditos: [
