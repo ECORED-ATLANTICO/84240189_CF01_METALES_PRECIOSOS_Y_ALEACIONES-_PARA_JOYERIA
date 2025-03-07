@@ -128,7 +128,8 @@ export default {
     },
     {
       tema: 'Metales preciosos y aleaciones para joyería.',
-      referencia: 'Ecosistema recursos SENA.',
+      referencia:
+        'Ecosistema Recursos SENA. (2024, 5 de febrero). Metales preciosos y aleaciones para joyería [Video]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=echh5DT0IzA',
     },
