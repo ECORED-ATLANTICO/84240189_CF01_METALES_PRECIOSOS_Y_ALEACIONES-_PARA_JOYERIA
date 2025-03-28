@@ -138,16 +138,16 @@
             td Joya 1: anillo.
             td Anillo.
           tr
-            td Joya 2: Ajustador.
+            td Joya 2: ajustador.
             td Anillo que se coloca después de la sortija, para evitar que esta se salga.
           tr
-            td Joya 3: Alianza.
+            td Joya 3: alianza.
             td Anillo nupcial o de esponsales. Deriva de aliar, unir.
           tr
-            td Joya 4: Alianza catalana.
+            td Joya 4: alianza catalana.
             td Anillo con piedras calibradas engarzadas en todo su diámetro, se la conoce también con los nombres de “<em>eternity</em>” y “sin fin”.
           tr
-            td Joya 5: Cintillo.
+            td Joya 5: cintillo.
             td Sortija a modo de cinta guarnecida de piedras preciosas, que cubren la mitad de su diámetro, también se la conoce como "media alianza".
           tr
             td Joya 6: lanzadera.

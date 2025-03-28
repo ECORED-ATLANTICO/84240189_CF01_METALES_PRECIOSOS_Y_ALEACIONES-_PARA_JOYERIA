@@ -128,6 +128,11 @@
             img(src="@/assets/curso/temas/tema2/check.svg")
           .col.px-0
             p.mb-0 Se hidrolizan con facilidad.
+  
+  .container.tarjeta.tarjeta--blanca.px-4.px-md-5.fnd-4-2-       
+    .row.align-items-center.mt-4(data-aos="zoom-in")
+      .col-auto.mb-3
+        h3.mb-0.fnd-2-1.fnd-2 Tabla periódica
   .container.tarjeta.tarjeta--blanca.px-4.px-md-5.fnd-4-2 
     .row.justify-content-center.align-items-center.mb-5.mt-4(data-aos="fade-right")
       p.mb-4 La tabla periódica es una disposición de los elementos químicos organizados según sus propiedades y características comunes. Está estructurada en filas y columnas que reflejan tendencias en propiedades físicas, químicas y atómicas de los elementos. Además, nos permite contextualizar los metales de transición y su ubicación.
@@ -151,31 +156,31 @@
           .col-xl-7.mb-4.mb-md-0.px-lg-5
             .titulo-sexto.c-r
               h5.text-white Tabla 1. 
-              span.text-white Tabla periodico
+              span.text-white Puntos de fusión de los metales en estado puro
             table.tbl
               caption Fuente: SENA (2024).
               thead
                 tr
-                  th ELEMENTO
-                  th PTO DE FUSIÓN °C
+                  th Elemento
+                  th Pto de fusión °C
               tbody
                 tr
-                  td COBRE
+                  td Cobre
                   td 1083
                 tr
-                  td ESTAÑO
+                  td Estaño
                   td 232
                 tr
-                  td PALADIO
+                  td Paladio
                   td 1549
                 tr
-                  td PLATA
+                  td Plata
                   td 960
                 tr
-                  td PLATINO
+                  td Platino
                   td 1745
                 tr
-                  td RODIO
+                  td Rodio
                   td 1966
         .row.px-lg-5.px-md-0.justify-content-center.align-items-center(titulo="")
           .col-md-5
@@ -189,8 +194,8 @@
               caption Fuente: SENA (2024).
               thead
                 tr
-                  th ELEMENTO
-                  th PTO DE FUSIÓN °C
+                  th Elemento
+                  th Pto de fusión °C
               tbody
                 tr
                   td 95 % Au, 5 % Ag
@@ -216,8 +221,8 @@
               caption Fuente: SENA (2024).
               thead
                 tr
-                  th ELEMENTO
-                  th PTO DE FUSIÓN °C
+                  th Elemento
+                  th Pto de fusión °C
               tbody
                 tr
                   td 95 % Au, 5 % Cu
@@ -244,8 +249,8 @@
               caption Fuente: SENA (2024).
               thead
                 tr
-                  th ELEMENTO
-                  th PTO DE FUSIÓN °C
+                  th Elemento
+                  th Pto de fusión °C
               tbody
                 tr
                   td 95 % Au 5 % Pt
@@ -272,8 +277,8 @@
               caption Fuente: SENA (2024).
               thead
                 tr
-                  th ELEMENTO
-                  th PTO DE FUSIÓN °C
+                  th Elemento
+                  th Pto de fusión °C
               tbody
                 tr
                   td 95% Au 5 % Pd

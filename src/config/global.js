@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Reconocimientos y aleaciones en los metales preciosos',
     Description:
-      'El programa "Reconocimientos y aleaciones en metales preciosos" capacita a los participantes en la identificación, análisis y elaboración de aleaciones para joyería. Combina teoría y práctica, desarrollando competencias en el manejo de materiales y asegurando calidad según estándares internacionales. Su enfoque es mejorar las habilidades técnicas de operarios y aprendices, impulsando su desempeño y proyección profesional en el sector.',
+      'El componente formativo capacita a los participantes en la identificación, análisis y elaboración de aleaciones para joyería. Combina teoría y práctica, desarrollando competencias en el manejo de materiales y asegurando calidad según estándares internacionales. Su enfoque es mejorar las habilidades técnicas de operarios y aprendices, impulsando su desempeño y proyección profesional en el sector.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -126,13 +126,6 @@ export default {
       tipo: 'PDF',
       descarga: '/downloads/estudio_joyeriacol.pdf',
     },
-    {
-      tema: 'Metales preciosos y aleaciones para joyería.',
-      referencia:
-        'Ecosistema Recursos SENA. (2024, 5 de febrero). Metales preciosos y aleaciones para joyería [Video]. YouTube. ',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=echh5DT0IzA',
-    },
   ],
   glosario: [
     {
@@ -220,7 +213,7 @@ export default {
           nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
           centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
       ],
     },
@@ -234,7 +227,7 @@ export default {
             'Centro de Gestión Administrativa y Fortalecimiento Empresarial - Regional Boyacá',
         },
         {
-          nombre: 'Ricardo palacio Peña',
+          nombre: 'Ricardo Palacio Peña',
           cargo: 'Asesora pedagógica',
           centro: 'Centro Comercio y Servicio - Regional Tolima',
         },
@@ -242,7 +235,7 @@ export default {
           nombre: 'Fabian Cuartas Donado',
           cargo: 'Evaluador instruccional',
           centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
       ],
     },
@@ -253,19 +246,19 @@ export default {
           nombre: 'Hernando Junior Strusberg Pérez',
           cargo: 'Diseño <em>web</em>',
           centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial -  Regional Atlántico',
         },
         {
           nombre: 'Jorge Leonardo Camacho Pardo',
           cargo: 'Desarrollor <em> full stack</em>',
           centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial -  Regional Atlántico',
         },
         {
           nombre: 'Alexander Rafael Acosta Bedoya',
           cargo: 'Animador y productor audiovisual',
           centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial -  Regional Atlántico',
         },
       ],
     },
@@ -276,25 +269,25 @@ export default {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial -  Regional Atlántico',
         },
         {
-          nombre: 'Luz Karime Amaya',
+          nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial -  Regional Atlántico',
         },
         {
           nombre: 'Jairo Luis Valencia Ebratt',
           cargo: 'Validador y vinculador de recursos digitales ',
           centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial -  Regional Atlántico',
         },
         {
           nombre: 'Juan Carlos Cardona Acosta',
           cargo: 'Validador y vinculador de recursos digitales',
           centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial -  Regional Atlántico',
         },
       ],
     },
