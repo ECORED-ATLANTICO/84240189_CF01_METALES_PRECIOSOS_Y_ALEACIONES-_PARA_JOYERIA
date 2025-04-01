@@ -266,10 +266,9 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Carolina Coca Salazar',
+          nombre: 'María Fernanda Morales Angulo',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial -  Regional Atlántico',
+          centro: 'Centro Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya Cabra',
