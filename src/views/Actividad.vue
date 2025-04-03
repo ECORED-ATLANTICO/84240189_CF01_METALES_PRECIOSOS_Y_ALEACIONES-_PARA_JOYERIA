@@ -22,6 +22,8 @@ export default {
       introduccion:
         'Preguntas de opción múltiple: lea los siguientes enunciados y seleccione la respuesta que considere correcta.',
       barajarPreguntas: true,
+      titulo_aprobado: 'Buen trabajo',
+      titulo_reprobado: 'Vuelva a intentarlo',
       preguntas: [
         {
           id: 1,
